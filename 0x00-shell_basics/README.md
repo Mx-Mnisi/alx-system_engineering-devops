@@ -1,1 +1,0 @@
-A devop readme
